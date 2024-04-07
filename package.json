@@ -1,7 +1,7 @@
 {
-  "name": "ss35-cli-atm",
-  "version": "1.0.1",
-  "description": "",
+  "name": "ss35-cli-its-atm",
+  "version": "3.0.0",
+  "description": "This is a command-line interface based ATM",
   "main": "main.js",
   "type": "module",
   "bin":"main.js",
